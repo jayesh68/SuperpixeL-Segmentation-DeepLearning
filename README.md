@@ -25,7 +25,7 @@ A pre-trained VGG network is used, and the last few layers are replaced with a f
 ## Results
 The data is split randomly with 80% in the training and the remaining 20% in the test set.
 <p float="left">
-<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout1.png" width="250" height="300"/>
-<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout2.png" width="250" height="300"/>
-<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout3.png" width="250" height="300"/>
+<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout1.png" width="250" height="400"/>
+<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout2.png" width="250" height="400"/>
+<img src="https://github.com/jayesh68/SUPERPIXL-SEGMENTATION-CLASSIFICATION/blob/main/Data/supsegout3.png" width="250" height="400"/>
 </p>
